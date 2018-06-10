@@ -1,0 +1,19 @@
+{
+    "name": "seanmorris/isotope-jenkins",
+    "authors": [
+        {
+            "name": "Sean Morris",
+            "email": "sean@sean-morris.com"
+        }
+    ],
+    "require": {
+        "seanmorris/isotope": "dev-master"
+    },
+    "minimum-stability": "dev",
+    "repositories": [
+        {   
+            "type": "vcs",
+            "url":  "git@github.com:seanmorris/isotope-backend.git"
+        }
+    ]
+}
